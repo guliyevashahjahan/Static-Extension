@@ -1,0 +1,14 @@
+C:\Users\ASUS\Desktop\Task 1\Static-Extension\2024-05-27\bin\Debug\net8.0\2024-05-27.exe
+C:\Users\ASUS\Desktop\Task 1\Static-Extension\2024-05-27\bin\Debug\net8.0\2024-05-27.deps.json
+C:\Users\ASUS\Desktop\Task 1\Static-Extension\2024-05-27\bin\Debug\net8.0\2024-05-27.runtimeconfig.json
+C:\Users\ASUS\Desktop\Task 1\Static-Extension\2024-05-27\bin\Debug\net8.0\2024-05-27.dll
+C:\Users\ASUS\Desktop\Task 1\Static-Extension\2024-05-27\bin\Debug\net8.0\2024-05-27.pdb
+C:\Users\ASUS\Desktop\Task 1\Static-Extension\2024-05-27\obj\Debug\net8.0\2024-05-27.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\Task 1\Static-Extension\2024-05-27\obj\Debug\net8.0\2024-05-27.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\Task 1\Static-Extension\2024-05-27\obj\Debug\net8.0\2024-05-27.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\Task 1\Static-Extension\2024-05-27\obj\Debug\net8.0\2024-05-27.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\Task 1\Static-Extension\2024-05-27\obj\Debug\net8.0\2024-05-27.dll
+C:\Users\ASUS\Desktop\Task 1\Static-Extension\2024-05-27\obj\Debug\net8.0\refint\2024-05-27.dll
+C:\Users\ASUS\Desktop\Task 1\Static-Extension\2024-05-27\obj\Debug\net8.0\2024-05-27.pdb
+C:\Users\ASUS\Desktop\Task 1\Static-Extension\2024-05-27\obj\Debug\net8.0\2024-05-27.genruntimeconfig.cache
+C:\Users\ASUS\Desktop\Task 1\Static-Extension\2024-05-27\obj\Debug\net8.0\ref\2024-05-27.dll
